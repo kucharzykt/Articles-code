@@ -1,2 +1,2 @@
 # Articles-code
-Code that I used in articles
+Code that I used in the articles
