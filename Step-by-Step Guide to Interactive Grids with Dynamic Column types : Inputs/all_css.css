@@ -1,0 +1,11 @@
+/*Hiding COL*/
+#mygrid .a-GV-table col:nth-last-child(1),
+#mygrid .a-GV-table col:nth-last-child(2),
+/*Hiding TH*/
+#mygrid .a-GV-table th:nth-last-child(1),
+#mygrid .a-GV-table th:nth-last-child(2),
+/*Hiding TD*/
+#mygrid .a-GV-table td:nth-last-child(1),
+#mygrid .a-GV-table td:nth-last-child(2){
+    display: none;
+}
